@@ -27,7 +27,7 @@ Máquina de Moore. No ejecuta las microoperaciones.
 
 ## Ejecución
 
-Desde la carpeta `hands-on-1/`:
+Desde la carpeta `hands-on-1-analisis-lexico-automatas/`:
 
 ```bash
 python main.py 
